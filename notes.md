@@ -24,3 +24,9 @@
   - must ```npm i -g gulp-cli``` at root directory to run gulp at command line
   - I'm using nvm and it still works, though global is only for node 10.x instance
 
+## Text Used
+- some of the basic text was from the tutorial
+- I gave a sarcastic tone to heading titles
+- for bigger blocks of text I used
+  - http://socialgoodipsum.com/#/
+  - http://legalipsum.com/?count=1
