@@ -16,3 +16,11 @@
 - bootstrap - duh
 - jquery - chainable js methods
 - popper.js - positioning of pop-overs & tooltips (replaces tether)
+
+## setting up boilerplate
+
+- tutorial was using gulp 3.9 - gulp 4 had to make changes in gulpfile.js
+  - which uses gulp.parallel & gulp.series not what is in the tutorial
+  - must ```npm i -g gulp-cli``` at root directory to run gulp at command line
+  - I'm using nvm and it still works, though global is only for node 10.x instance
+
